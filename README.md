@@ -1,4 +1,4 @@
-# 📈 Fund-Quota-Tracker | 基金额度追踪器
+# 📈 Fund-Quota-Tracker | 基金额度追踪
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-Automated-2088FF?logo=github-actions)
